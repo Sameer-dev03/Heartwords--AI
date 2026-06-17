@@ -1,0 +1,6 @@
+{
+  "name": "HeartWords AI",
+  "description": "AI Couple Text Rewriter & Shayari Enhancer. Rewrite boring messages into creative, romantic, flirty, and deep emotional texts in 14 custom styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
